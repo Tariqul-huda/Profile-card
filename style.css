@@ -31,7 +31,6 @@ p{
     margin:145px auto;
     overflow: hidden;
     width:325px;
-    float: center;
     box-shadow: 10px 10px 31px var(--color-very-dark-desaturated-blue) ;
 }
 .card__header{
